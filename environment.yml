@@ -8,3 +8,6 @@ dependencies:
   - dask
   - requests
   - polars
+  - pandas
+  - pyarrow
+  - lightgbm
