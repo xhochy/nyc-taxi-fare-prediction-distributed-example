@@ -1,0 +1,13 @@
+name: nyc-taxi-fare-prediction-distributed-example
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - dask
+  - requests
+  - polars
+  - pandas
+  - pyarrow
+  - lightgbm
